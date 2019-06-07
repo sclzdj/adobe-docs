@@ -1,0 +1,147 @@
+## 界面介绍
+
+![1559878972212](assets/%5CUsers%5CAdministrator%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1559878972212.png)
+
+
+
+## 选项卡
+
+> 窗口->排列
+
+>左击按住选项卡拖动
+
+## 首选项
+
+注意：很多配置项设置了之后要重启ps才能生效
+
+> 编辑->首选项
+
+下面展示一下常用的一些配置：
+
+![1559879859380](assets/%5CUsers%5CAdministrator%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1559879859380.png)
+
+![1559879896788](assets/%5CUsers%5CAdministrator%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1559879896788.png)
+
+![1559880056307](assets/%5CUsers%5CAdministrator%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1559880056307.png)
+
+![1559880025142](assets/%5CUsers%5CAdministrator%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1559880025142.png)
+
+##### 自动定时保存
+
+![1559879967062](assets/%5CUsers%5CAdministrator%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1559879967062.png)
+
+##### 使用旧版”新建文档“
+
+![1559879793987](assets/%5CUsers%5CAdministrator%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1559879793987.png)
+
+## 快捷键
+
+#### 缩放工具
+
+> ctrl++：放大  
+>
+> ctrl+-：缩小  
+>
+> space+m1：平移
+
+#### 屏幕模式
+
+> f：切换工作模式
+>
+> tab：隐藏/显示工具栏
+
+#### 前景色和背景色
+
+> x：前景色和背景色切换
+>
+> d：恢复默认
+
+## 界面布局
+
+点击后里面还有**复位原界面**的选项
+
+![1559880857596](assets/%5CUsers%5CAdministrator%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1559880857596.png)
+
+## 编辑工具栏
+
+![1559881021403](assets/%5CUsers%5CAdministrator%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1559881021403.png)
+
+
+
+## 选区的基本操作
+
+#### 全选和反选
+
+> ctrl+a   shift+ctrl+i
+
+#### 取消选项和重新选择
+
+>ctrl+d   shift+ctrl+d
+
+#### 运算选区
+
+> shift：加选区
+>
+> alt：减选区
+>
+> shift+alt：交集选区
+
+#### 正方和正圆
+
+> 选择方形或椭圆工具，按住shift键
+
+#### 圆心和方心
+
+>选择方形或椭圆工具，按住alt键
+
+#### 拖拽选区
+
+![1559882082493](assets/%5CUsers%5CAdministrator%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1559882082493.png)
+
+![1559882133280](assets/%5CUsers%5CAdministrator%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1559882133280.png)
+
+![1559882401142](assets/%5CUsers%5CAdministrator%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1559882401142.png)
+
+#### 变换选区
+
+> 选择->变换选区
+
+![1559883834711](assets/%5CUsers%5CAdministrator%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1559883834711.png)
+
+点击右键选择变换选区
+
+![1559883960246](assets/%5CUsers%5CAdministrator%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1559883960246.png)
+
+变换选区操作后
+
+![1559883916707](E:\adobe\adobe-docs\assets\%5CUsers%5CAdministrator%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1559883916707.png)
+
+![1559884065420](assets/%5CUsers%5CAdministrator%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1559884065420.png)
+
+### 自由变换
+
+> 编辑->自由变换
+
+![1559884131943](assets/%5CUsers%5CAdministrator%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1559884131943.png)
+
+自由变换操作后，**等比例变换按住shift**
+
+![1559884175660](assets/%5CUsers%5CAdministrator%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1559884175660.png)
+
+### 羽化
+
+![1559882524661](assets/%5CUsers%5CAdministrator%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1559882524661.png)
+
+![1559882485833](assets/%5CUsers%5CAdministrator%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1559882485833.png)
+
+![1559882560645](assets/%5CUsers%5CAdministrator%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1559882560645.png)
+
+### 球的影子
+
+![1559884791555](assets/%5CUsers%5CAdministrator%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1559884791555.png)
+
+**取消选区**再继续操作
+
+滤镜->模糊->高斯模糊
+
+![1559884856803](assets/%5CUsers%5CAdministrator%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1559884856803.png)
