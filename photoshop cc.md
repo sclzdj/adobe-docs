@@ -56,6 +56,18 @@
 >
 > d：恢复默认
 
+#### 填充选区颜色
+
+> alt+del：填充前景色
+>
+> ctrl+del：填充背景色
+
+#### 画笔缩放
+
+> [：缩小
+>
+> ]：放大
+
 ## 界面布局
 
 点击后里面还有**复位原界面**的选项
@@ -106,6 +118,8 @@
 
 > 选择->变换选区
 
+注意：如果变换线和选区线有距离，可能是因为设置了羽化的原因
+
 ![1559883834711](assets/%5CUsers%5CAdministrator%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1559883834711.png)
 
 点击右键选择变换选区
@@ -121,6 +135,8 @@
 ### 自由变换
 
 > 编辑->自由变换
+
+注意：如果变换线和选区线有距离，可能是因为设置了羽化的原因
 
 ![1559884131943](assets/%5CUsers%5CAdministrator%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1559884131943.png)
 
@@ -142,6 +158,104 @@
 
 **取消选区**再继续操作
 
-滤镜->模糊->高斯模糊
+> 滤镜->模糊->高斯模糊
 
 ![1559884856803](assets/%5CUsers%5CAdministrator%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1559884856803.png)
+
+
+
+## 抠图
+
+基本都要需要结合缩放和平移操作
+
+### 多边形套索工具
+
+> 注意：**抠错了，按enter键是撤销一下**
+
+![1559972036904](assets/%5CUsers%5CAdministrator%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1559972036904.png)
+
+选择并遮住
+
+![1559972253950](assets/%5CUsers%5CAdministrator%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1559972253950.png)
+
+点击后
+
+![1559972289192](assets/%5CUsers%5CAdministrator%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1559972289192.png)
+
+透明度改成100%
+
+![1559972349384](assets/%5CUsers%5CAdministrator%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1559972349384.png)
+
+调整边缘和减区内部的其它区域，主要利用减区操作，按住alt键
+
+![1559972532315](assets/%5CUsers%5CAdministrator%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1559972532315.png)
+
+全局调整
+
+![1559972660136](assets/%5CUsers%5CAdministrator%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1559972660136.png)
+
+输出设置
+
+![1559972709859](assets/%5CUsers%5CAdministrator%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1559972709859.png)
+
+点击确定
+
+![1559972792977](assets/%5CUsers%5CAdministrator%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1559972792977.png)
+
+把背景变成白色
+
+![1559973064012](assets/%5CUsers%5CAdministrator%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1559973064012.png)
+
+点击后选择“纯色”，再选择白色，点击确定
+
+![1559973151228](assets/%5CUsers%5CAdministrator%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1559973151228.png)
+
+把颜色填充图层下移
+
+![1559973202917](assets/%5CUsers%5CAdministrator%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1559973202917.png)
+
+
+
+### 快速选择工具
+
+![1559974257153](assets/%5CUsers%5CAdministrator%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1559974257153.png)
+
+减区内部区域
+
+![1559974356979](assets/%5CUsers%5CAdministrator%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1559974356979.png)
+
+选择并遮住，调整
+
+![1559974627284](assets/%5CUsers%5CAdministrator%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1559974627284.png)
+
+确定后上背景色（参考多边形套索工具抠图上背景色的方法）
+
+![1559974740409](assets/%5CUsers%5CAdministrator%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1559974740409.png)
+
+下面添加阴影：
+
+按住ctrl键点击图层，会有相应的选区
+
+![1559974931045](assets/%5CUsers%5CAdministrator%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1559974931045.png)
+
+然后新建图层，填充阴影颜色
+
+![1560062064033](assets/%5CUsers%5CAdministrator%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1560062064033.png)
+
+下移图层，并且左移阴影，增加透明度
+
+![1560062335254](assets/%5CUsers%5CAdministrator%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1560062335254.png)
+
+当然阴影是比较生硬的，可以利用进行模糊处理，这里就不演示了。
+
+### 魔棒选择工具
+
+它的使用方法和**快速选择工具使用方法一致**，但需要注意的是他有个“连续”选项，不勾选“连续”的话会把整张图上的相似颜色全选中，下面演示它们的区别：
+
+**勾选“连续”**
+
+![1560062905522](assets/%5CUsers%5CAdministrator%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1560062905522.png)
+
+**取消勾选“连续”**
+
+![1560062958660](assets/%5CUsers%5CAdministrator%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1560062958660.png)
