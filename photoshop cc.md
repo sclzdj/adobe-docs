@@ -1,3 +1,7 @@
+## 下载地址
+
+链接：https://pan.baidu.com/disk/home?#/all?vmode=list&path=%2Fresources%2Fadobe%2Fphotoshop
+
 ## 界面介绍
 
 ![1559878972212](assets/%5CUsers%5CAdministrator%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1559878972212.png)
